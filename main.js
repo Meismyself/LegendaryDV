@@ -19,3 +19,18 @@ this.addEventListener('scroll', function(){
   Logo.style.margin = 'auto';
   }
 })
+
+
+
+
+
+
+
+
+ $ ( function ( ) {
+ $ ( "#sec" ).load( "includes/header.html" ) 
+ }) 
+
+
+
+
