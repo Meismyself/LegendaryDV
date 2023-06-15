@@ -1,2 +1,0 @@
-# LegendaryDV
-For my skills
