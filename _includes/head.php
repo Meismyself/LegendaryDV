@@ -6,4 +6,4 @@
        <title>Legendary</title>
        <link rel="icon" href="img/IMG_20230521_191944.jpg" type="image/x-icon">
        <link rel="stylesheet" href="css/style.css">
-     </head>
+   </head>
